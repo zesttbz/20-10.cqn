@@ -33,9 +33,16 @@ body {
 
 .happy-woman-day {
   color: white;
-  font-size: 40px;
+  font-size: 30px;
   position: fixed;
   top: 80px;
+}
+
+.happy-cqn {
+  color: white;
+  font-size: 20px;
+  position: fixed;
+  top: 50px;
 }
 
 .flowers {
